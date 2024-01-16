@@ -31,6 +31,8 @@
     }
   ],
   "Wallpaper": [
+
+{  "id": 1,  "name_category": "sukuna",  "wallpaper_name": "images (1).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (1).jpeg"},
 {  "id": 2,  "name_category": "sukuna",  "wallpaper_name": "images (10).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (10).jpeg"},
 {  "id": 3,  "name_category": "sukuna",  "wallpaper_name": "images (11).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (11).jpeg"},
 {  "id": 4,  "name_category": "sukuna",  "wallpaper_name": "images (12).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/images (12).jpeg"},
@@ -195,6 +197,13 @@
 {  "id": 163,  "name_category": "sukuna",  "wallpaper_name": "sukuna%20live%20(3).mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://github.com/nurulgodevjos/riliskan/raw/04641a85747a82337f97e750361276eab71a7538/sukuna%20live%20(3).mp4"},
 {  "id": 164,  "name_category": "sukuna",  "wallpaper_name": "sukuna%20live%20(4).mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://github.com/nurulgodevjos/riliskan/raw/04641a85747a82337f97e750361276eab71a7538/sukuna%20live%20(4).mp4"},
 {  "id": 165,  "name_category": "sukuna",  "wallpaper_name": "sukuna%20live%20(5).mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://github.com/nurulgodevjos/riliskan/raw/04641a85747a82337f97e750361276eab71a7538/sukuna%20live%20(5).mp4"},
-{  "id": 166,  "name_category": "sukuna",  "wallpaper_name": "sukuna%20live%20(6).mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://github.com/nurulgodevjos/riliskan/raw/04641a85747a82337f97e750361276eab71a7538/sukuna%20live%20(6).mp4"} ]
+{  "id": 166,  "name_category": "sukuna",  "wallpaper_name": "sukuna%20live%20(6).mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://github.com/nurulgodevjos/riliskan/raw/04641a85747a82337f97e750361276eab71a7538/sukuna%20live%20(6).mp4"},
+{  "id": 167,  "name_category": "sukuna",  "wallpaper_name": "17b4de6e33fa8e5b0d0ab92a793eeb6f.mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/17/b4/de/17b4de6e33fa8e5b0d0ab92a793eeb6f.mp4"},
+{  "id": 168,  "name_category": "sukuna",  "wallpaper_name": "d64bb4870c1ade0b01de8038e2bac8f6.mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/d6/4b/b4/d64bb4870c1ade0b01de8038e2bac8f6.mp4"},
+{  "id": 169,  "name_category": "sukuna",  "wallpaper_name": "6bbd7a0ae060c22e98456870367f0a01.mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/6b/bd/7a/6bbd7a0ae060c22e98456870367f0a01.mp4"},
+{  "id": 170,  "name_category": "sukuna",  "wallpaper_name": "a7ab53bdd56182f54591a35458c3fb2a.mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/a7/ab/53/a7ab53bdd56182f54591a35458c3fb2a.mp4"},
+{  "id": 171,  "name_category": "sukuna",  "wallpaper_name": "6321d540a716b961d26a03dbaebda035.mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/63/21/d5/6321d540a716b961d26a03dbaebda035.mp4"},
+{  "id": 172,  "name_category": "sukuna",  "wallpaper_name": "bcdabd918b7e60fa76e502381e9d87d5.mp4",  "wallpaper_type": "MP4",  "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/bc/da/bd/bcdabd918b7e60fa76e502381e9d87d5.mp4"}
+]
 
 }
