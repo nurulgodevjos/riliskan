@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "MODE_NO_ADS": true,
+      "MODE_NO_ADS": false,
       "ADS_ON_EXIT_DIALOG": true,
       "INTERVAL_INTERS_MINUTES": 1,
       "MAX_INTERSTITIAL_COUNT": 2,
