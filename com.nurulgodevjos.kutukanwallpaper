@@ -7,7 +7,7 @@
       "MAX_INTERSTITIAL_COUNT": 2,
       "CODE_INTERSTTIAL_ADMOB": "ca-app-pub-7596642299505786/5312644611",
       "CODE_BANNER_ADMOB": "ca-app-pub-7596642299505786/2475508530",
-      "ON_OFF_BANNER_DIALOG_EXIT": "1",
+      "ON_OFF_BANNER_DIALOG_EXIT": "0",
       "REDIRECT_TRAFFIC": false,
       "LINK_REDIRECT": "https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en",
       "RANDOM_LIST": "2",
